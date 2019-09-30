@@ -1,0 +1,18 @@
+Enter the number of Items 
+
+4
+Enter items 
+
+apples
+milk
+bread
+soup
+
+Items are : 
+Soup - £ 0.65
+Apples 10% off: -10p - £ 0.1
+Milk - £ 1.3
+Bread - £ 0.8
+================
+
+Subtotal £2.8499999999999996
